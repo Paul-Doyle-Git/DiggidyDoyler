@@ -25,3 +25,4 @@
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DiggidyDoyler&theme=react)](https://git.io/streak-stats)
+![Paul's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiggidyDoyler&theme=react&layout=compact)
