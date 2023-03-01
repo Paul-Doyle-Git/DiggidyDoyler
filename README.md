@@ -2,7 +2,7 @@
 
 **`FrontEnd Developer`**
 
-4th Year Creative Computing student, currently working on my final year project implmententing a AI audio recognition model into a WebRTC peer to peer video calling application. 
+4th Year Creative Computing student, currently working on my final year project implementing a AI audio recognition model into a WebRTC peer to peer video calling application. 
 
 ---
 
