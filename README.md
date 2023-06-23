@@ -26,4 +26,4 @@ First Class Honours in BSc (Hons) Creative Computing 2023
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Paul-Doyle-Git&theme=react)](https://git.io/streak-stats)
 <br />
-![Paul's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiggidyDoyler&theme=react&layout=compact)
+![Paul's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Doyle-Git&theme=react&layout=compact)
